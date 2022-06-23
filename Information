@@ -1,8 +1,8 @@
-Location (character): Marine Protected Area Cabo de Palos - Islas Hormigas.
-Dive site (character): Bajo de Testa (Testa), La Morra (Morra), Piles I (Piles_I), Piles II (Piles_II), Bajo de Dentro (Dentro), Bajo de Fuera (Fuera).
-Date and time.
+Location (character), Marine Protected Area Cabo de Palos - Islas Hormigas: MPA
+Dive site (character): Bajo de Testa (Testa), La Morra (Morra), Bajo de Piles 1 (Piles_1), Bajo de Piles 2 (Piles_2), Bajo de Dentro (Dentro), Bajo de Fuera (Fuera).
+Date (dd/mm/yyyy) and time (24-h format).
 Seafloor (character): sandy, rocky, seagrass, wreck, mix
-Number of total especies (integer).
+Number of total species (integer).
 Maximum and minimum temperature (Celsius, integer).
 Maximum and minimum depth (meters, integer).
-Species (character).
+Species (character). Genus and species separated by a _ (example: Dasyatis_pastinaca)

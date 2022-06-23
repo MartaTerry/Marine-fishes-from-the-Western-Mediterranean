@@ -5,4 +5,5 @@ Seafloor (character): sandy, rocky, seagrass, wreck, mix
 Number of total species (integer).
 Maximum and minimum temperature (Celsius, integer).
 Maximum and minimum depth (meters, integer).
-Species (character). Genus and species separated by a _ (example: Dasyatis_pastinaca)
+Species (character). Genus and species separated by a _ (example: Dasyatis_pastinaca). If the species could not be identified, it is indicated with sp (example:
+  Liza_sp). Species are sorted by family (see "family_and_species.txt")
